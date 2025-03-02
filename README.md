@@ -1,0 +1,1 @@
+A React-based movie search app that allows users to find movies, view detailed information, and manage their favorites. It features a responsive design with an IMDb-style theme and fetches movie data from the OMDB API. Favorites are stored locally for easy access.
